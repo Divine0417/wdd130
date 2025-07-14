@@ -40,6 +40,7 @@ main {
     max-width: 840px;
 }
 aside {
+    position: relative;
     width: 300px;
     margin: 15px;
     border: 2px solid #686666;
