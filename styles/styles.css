@@ -29,6 +29,7 @@ main img {
     height: auto;
     border: 1px solid black;
     padding: 2px;
+    margin-left: 10px;
     box-shadow: 0 0 30px gray;
 }
 p {
@@ -48,12 +49,13 @@ aside {
     text-align: center;
 }
 aside img {
-    width: 200px;
+    width: 250px;
     height: auto;
 }
 aside h2 {
     position: relative;
     top: 30px;
+    color: black;
 }
 footer {
     text-align: center;
@@ -68,4 +70,5 @@ footer {
     border: 1px solid var(--primary-color);
     background-color: var(--secondary-color);
     color: var(--primary-color);
+    max-width: fit-content;
 }
