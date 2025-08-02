@@ -1,0 +1,148 @@
+:root {
+    --primary-color: #F1F410;
+    --secondary-color: #0592CE;
+    --accent-color-1: #291B5E;
+    --accent-color-2:#F17912;
+    --background-color: #d7d0d0;
+    --text-color: #fff;
+}
+
+
+.body {
+    background-color: #0592ce34;
+    max-width: 100%;
+}
+
+header {
+    background-color: white;
+    font-family: "Josefin Sans", serif, sans-serif;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 10px;
+    overflow: hidden;
+    width: 100%;
+}
+
+header nav  a {
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.header-1 { 
+    width: 99%;
+    position: absolute;
+    top: 22rem;
+    
+}
+
+.header-1 h1 {
+    background-color: #d7d0d079;
+    font-family: "Josefin Sans", serif;
+    text-align: center;
+    color: var(--text-color);
+    margin: 0 2rem;
+    padding: 8px;
+}
+
+.hero img {
+    width: 95%;
+    margin: 0 2rem 1rem;
+}
+
+.aside {
+    position: absolute;
+    top: 55rem;
+    right: 6%;
+}
+
+.aside button {
+    font-family: "Josefin Sans", serif;;
+    color: #ffffff;
+    background-color: #f17a12b9;
+    border: 2px double #000000;
+    height: 40px;
+    width: 10rem;
+}
+
+.banner {
+    background-color: #fff;
+    max-width: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.banner-1 {
+    font-family: "Roboto", serif;
+    font-weight: 500;
+    color: var(--accent-color-1);
+    float: left;
+    width: 250px;
+    margin: 1rem;
+    text-align: center;
+}
+
+.banner-1 .p-1, .p-2, .p-3 {
+    margin-left: 12rem;
+    width: 17rem;
+}
+
+.banner-1 img {
+    width: 250px;
+    height: 250px;
+    border: 3px solid #2a1b5eb8;
+    border-radius: 5rem; 
+    margin-left: 12rem;
+}
+
+.history img {
+    margin: 2rem 2rem 1rem;
+    
+}
+
+.history-aside {
+    background-color: #f0f41096;
+    border: 5px double #291B5E;
+    position: absolute;
+    top: 86rem;
+    float: right;
+    right: 50px;
+    width: 40rem;
+    padding: 0.5rem;
+    height: 15rem;
+}
+
+.history-aside h2 {
+    font-family: "Josefin Sans", serif;
+    color: #291B5E;
+    margin: 1rem 3rem 1rem;
+}
+
+.history-aside p {
+    font-family: "Roboto", serif;
+    color: black;
+    font-weight: 600;
+    margin: 0rem 3rem 1rem;
+}
+
+.history-aside button {
+    font-family: "Josefin Sans", serif;;
+    color: #ffffff;
+    background-color: var(--secondary-color);
+    margin: 0 3rem 1rem;
+    height: 40px;
+    width: 10rem;
+}
+
+footer {
+    background-color: #F17912;
+    font-family: "Josefin Sans", serif;
+    text-align: center;
+    margin: 1rem 0;
+    padding: 0.1rem;
+}
+
+.sociallinks img {
+    width: 30px;
+    margin: 8px;
+}
