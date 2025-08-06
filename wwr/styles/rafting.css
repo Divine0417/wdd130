@@ -14,7 +14,7 @@
 
 .homepage {
     background-color: #d7d0d079;
-    font-family: "Josefin Sans", serif, sans-serif;
+    font-family: "Acme", serif, sans-serif;
     text-align: center;
     margin-bottom: .5rem;
     padding: 10px;
@@ -63,7 +63,7 @@
 .header-container nav a {
     margin: 0 40px;
     text-decoration: none;
-	font-family: "Josefin Sans", serif;
+	font-family: "Acme", serif;
     color: #291B5E;
     font-weight: bold;
 }
@@ -91,7 +91,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-	font-family: "Josefin Sans", serif;
+	font-family: "Signika", serif;
     color: white;
     text-align: center;
 }
@@ -145,7 +145,7 @@
 
 .newsletter button, .contact-form button {
     padding: 10px 20px;
-	font-family: "Josefin Sans", serif;
+	font-family: "Acme", serif;
     background-color: #007BFF;
     color: white;
     border: none;
@@ -166,13 +166,13 @@
 }
 
 section h2 {
-	font-family: "Josefin Sans", serif;
+	font-family: "Acme", serif;
 	color: var(--accent-color-1);
 	text-align: center;
 }
 
 .about-history p {
-	font-family: "Roboto", serif;
+	font-family: "Roboto Condensed", serif;
 	font-weight: 500;
 	text-align: center;
 	background-color: var(--background-color);
@@ -200,7 +200,7 @@ section h2 {
 }
 
 .about-container p {
-	font-family: "Roboto", serif;
+	font-family: "Roboto Condensed", serif;
 	color: #291B5E;
 	font-weight: 500;
 	margin: 0 0 20px;
@@ -241,7 +241,7 @@ iframe {
 
 .employee figure {
     margin: 0 10px;
-	font-family: "Roboto", serif;
+	font-family: "Roboto Condensed", serif;
     text-align: center;
 }
 
@@ -331,12 +331,12 @@ iframe {
 }
 
 .history-aside p, .banner-item p, .trip-call-to-action p {
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto Condensed", sans-serif;
     margin-bottom: 20px;
 }
 
 .history-aside .button, .homepage-aside .button, .call-to-action .cta-button, .trip-call-to-action .cta-button {
-    font-family: "Josefin Sans", sans-serif;
+    font-family: "Acme", sans-serif;
     display: inline-block;
     padding: 10px 20px;
     background-color: #007bff;
@@ -382,7 +382,7 @@ iframe {
 }
 
 .newsletter h2 {
-    font-family: "Josefin Sans", serif;
+    font-family: "Acme", serif;
 	color: var(--accent-color-1);
     text-align: center;
     margin-bottom: 20px;
@@ -400,7 +400,7 @@ iframe {
     display: flex;
     flex-direction: column;
     align-items: center;
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto Condensed", sans-serif;
 }
 
 .newsletter form label {
@@ -417,12 +417,12 @@ iframe {
 }
 
 .call-to-action, .history-aside, .trip-call-to-action p {
-    font-family: "Roboto" sans-serif;
+    font-family: "Roboto Condensed" sans-serif;
     text-align: center;
 }
 
 .call-to-action p, .site-info p {
-    font-family: "Roboto";
+    font-family: "Roboto Condensed", serif;
 }
 
 .site-info {
@@ -496,7 +496,7 @@ iframe {
 }
 
 .trip-info h3 {
-    font-family: "Josefin Sans", sans-serif;
+    font-family: "Acme", sans-serif;
     font-size: 1.2rem;
     color: #007BFF;
     text-shadow: 
@@ -528,19 +528,19 @@ iframe {
 }
 
 .trips-table th {
-    font-family: "josefin Sans", sans-serif;
+    font-family: "Acme", sans-serif;
     color: aliceblue;
     background-color: var(--accent-color-2);
 }
 
 .trips-table td, .trip-info p {
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto Condensed", sans-serif;
     color: #000;
     font-weight: 500;
 }
 
 footer {
-	font-family: "Josefin Sans", serif;
+	font-family: "Acme", serif;
 	background-color: #d7d0d0;
 	text-align: center;
 	margin: .5rem;

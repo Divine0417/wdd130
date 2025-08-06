@@ -15,7 +15,7 @@
 
 header {
     background-color: white;
-    font-family: "Josefin Sans", serif, sans-serif;
+    font-family: "Acme", serif, sans-serif;
     text-align: center;
     margin-bottom: 30px;
     padding: 10px;
@@ -38,7 +38,7 @@ header nav  a {
 
 .header-1 h1 {
     background-color: #d7d0d079;
-    font-family: "Josefin Sans", serif;
+    font-family: "Acme", serif;
     text-align: center;
     color: var(--text-color);
     margin: 0 2rem;
@@ -57,7 +57,7 @@ header nav  a {
 }
 
 .aside button {
-    font-family: "Josefin Sans", serif;;
+    font-family: "Signika", serif;;
     color: #ffffff;
     background-color: #f17a12b9;
     border: 2px double #000000;
@@ -73,7 +73,7 @@ header nav  a {
 }
 
 .banner-1 {
-    font-family: "Roboto", serif;
+    font-family: "Roboto Condensed", serif;
     font-weight: 500;
     color: var(--accent-color-1);
     float: left;
@@ -113,20 +113,20 @@ header nav  a {
 }
 
 .history-aside h2 {
-    font-family: "Josefin Sans", serif;
+    font-family: "Signika", serif;
     color: #291B5E;
     margin: 1rem 3rem 1rem;
 }
 
 .history-aside p {
-    font-family: "Roboto", serif;
+    font-family: "Roboto Condensed", serif;
     color: black;
     font-weight: 600;
     margin: 0rem 3rem 1rem;
 }
 
 .history-aside button {
-    font-family: "Josefin Sans", serif;;
+    font-family: "Acme", serif;;
     color: #ffffff;
     background-color: var(--secondary-color);
     margin: 0 3rem 1rem;
@@ -136,7 +136,7 @@ header nav  a {
 
 footer {
     background-color: #F17912;
-    font-family: "Josefin Sans", serif;
+    font-family: "Acme", serif;
     text-align: center;
     margin: 1rem 0;
     padding: 0.1rem;
